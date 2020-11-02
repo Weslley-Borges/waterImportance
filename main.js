@@ -50,7 +50,7 @@ const waterFacts = [
   {
     "id": 10,
     "title": "Saneamento básico",
-    "body": "Cerca de 700 milhões de chineses bebem água contaminada todos os dias, e anualmente, 3,4 milhões de pessoas morrem em decorrência de problemas com a água que consomem . Isso ocorre pelo fato da água estar imprópria para o consumo humano, contendo bactérias, vermes, e vírus causadore de doenças"
+    "body": "Cerca de 700 milhões de chineses bebem água contaminada todos os dias, e anualmente, 3,4 milhões de pessoas morrem em decorrência de problemas com a água que consomem . Isso ocorre pelo fato da água estar imprópria para o consumo humano, contendo bactérias, vermes, e vírus causadores de doenças"
   },
   {
     "id": 11,
