@@ -64,12 +64,15 @@ const waterFacts = [
   }
 ]
 
+getFact()
+
 function getFact() {
   waterFacts.map(fato => {
     var factID = Math.floor((Math.random() * waterFacts.length) + 1)
     if(fato.id == factID){
       title.innerHTML = fato.title
       body.innerHTML = fato.body
+      return
     }
   })
 }
