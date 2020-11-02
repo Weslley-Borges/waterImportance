@@ -56,6 +56,11 @@ const waterFacts = [
     "id": 11,
     "title": "Você sabia #3",
     "body": "Em uma casa média, dois terços de toda a água consumida é usada no banheiro. Como podemos resolver esse problema?"
+  },
+  {
+    "id": 12,
+    "title": "Escassez da água #4",
+    "body": "Em 2016, o Brasil disperdiçou cerca de 38% da água potável nos sistemas de distribuição, o que equivale a quase 7 mil piscinas olímpicas a cada dia. A perda financeira no ano chegou a mais de R$10.000.000.000 ."
   }
 ]
 
